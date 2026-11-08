@@ -1,26 +1,50 @@
-# Ziyin (Zoey) Yu — Creative Portfolio
+<div align="center">
 
-### [✨ Open my creative portfolio website](https://zoeyjoy0426-sys.github.io/Interactive-Script/)
+# Ziyin (Zoey) Yu
 
-**Interactive Narrative · Visual Storytelling · Cross-Media Adaptation · Film & Theatre**
+### Creative Portfolio
 
-This is the GitHub repository for my portfolio. The designed website is accessed via the link above, not the GitHub code page.
+*Interactive Narrative · Visual Storytelling · Cross-Media Adaptation · Film & Theatre*
 
-## Featured work — *Dot by Dot*
+**[Explore my portfolio website](https://zoeyjoy0426-sys.github.io/Interactive-Script/)** · **[Experience Dot by Dot](http://ganmsm.cn/0926/1/0/George.html)**
 
-A practice-based interactive graphic-script adaptation of *Sunday in the Park with George*, exploring theatre, visual storytelling and audience participation through branching digital narrative.
+<picture>
+  <source srcset="docs/cover.avif" type="image/avif">
+  <img src="docs/park-scene.webp" width="390" alt="Illustrated cover of Sunday in the Park with George, created for the Dot by Dot interactive graphic script">
+</picture>
 
-[Explore the original interactive project](http://ganmsm.cn/0926/1/0/George.html) · [View the portfolio source](docs/index.html)
+*Selected visual from Dot by Dot · 2026*
 
-## Background
-
-- MSc Intermediality, University of Edinburgh (2025–2026)
-- BA Drama, Film & Television Literature, Communication University of Zhejiang (2020–2024)
-
-## Creative approach
-
-Text, image and interactivity come together in my creative practice. My work combines scriptwriting, cross-media adaptation, visual experimentation and research-informed storytelling.
+</div>
 
 ---
 
-*Visual portfolio site lives in the `docs/` folder. Original Twine export is preserved as `index.html.html`.*
+## Featured project · Dot by Dot
+
+An interactive graphic-script adaptation of *Sunday in the Park with George*, exploring how theatrical narrative, visual composition, character relationships and audience engagement can be reimagined through branching digital storytelling.
+
+Created as a practice-based MSc project at the **University of Edinburgh**, awarded **73% (Distinction)**.
+
+**[View the complete artwork and visual gallery](https://zoeyjoy0426-sys.github.io/Interactive-Script/)**
+
+## Visual practice
+
+| Character & costume studies | Narrative illustrations |
+|:---:|:---:|
+| ![Dot costume designs](docs/dot-costumes.webp) | ![George and Dot in the park](docs/park-scene.webp) |
+| Character turnarounds · Costume development | Scene composition · Illustrated storytelling |
+
+## About
+
+I am a creative practitioner and researcher working across theatre, film, visual culture and digital interaction.
+
+**Education**
+
+- MSc Intermediality: Literature, Film and the Arts in Dialogue — University of Edinburgh (2025–2026)
+- BA Drama, Film & Television Literature — Communication University of Zhejiang (2020–2024)
+
+**Areas of Practice:** Interactive Narrative · Visual Storytelling · Cross-Media Adaptation · Film & Theatre
+
+---
+
+<sub>Portfolio website: `docs/index.html` · Original interactive script export: `index.html.html`.</sub>
