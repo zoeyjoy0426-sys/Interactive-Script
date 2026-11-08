@@ -1,30 +1,26 @@
-# Ziyin (Zoey) Yu · Creative Portfolio
+# Ziyin (Zoey) Yu — Creative Portfolio
 
-**Interactive storytelling · Cross-media adaptation · Digital media**
+### [✨ Open my creative portfolio website](https://zoeyjoy0426-sys.github.io/Interactive-Script/)
 
-Hello! I am Ziyin (Zoey) Yu, a creative practitioner and researcher with an MSc in **Intermediality: Literature, Film and the Arts in Dialogue** from the **University of Edinburgh**.
+**Interactive Narrative · Visual Storytelling · Cross-Media Adaptation · Film & Theatre**
 
-I work across theatre, literature, visual storytelling and digital interaction, combining research with creative practice.
+This is the GitHub repository for my portfolio. The designed website is accessed via the link above, not the GitHub code page.
 
-## Featured project — *Dot by Dot*
+## Featured work — *Dot by Dot*
 
-*Dot by Dot* is my interactive graphic-script adaptation of the musical *Sunday in the Park with George*. Using **Twine**, images, dialogue, and branching narrative choices, the work explores how theatrical storytelling and audience participation can be reimagined in digital media.
+A practice-based interactive graphic-script adaptation of *Sunday in the Park with George*, exploring theatre, visual storytelling and audience participation through branching digital narrative.
 
-- **Explore the interactive project:** http://ganmsm.cn/0926/1/0/George.html
-- **Portfolio website source:** [docs/index.html](docs/index.html)
-- **Project result:** 73% (Distinction), MSc practice-based project, 2026
+[Explore the original interactive project](http://ganmsm.cn/0926/1/0/George.html) · [View the portfolio source](docs/index.html)
 
 ## Background
 
-- **University of Edinburgh**, MSc Intermediality (2025–2026)
-- **Communication University of Zhejiang**, BA Drama, Film & Television Literature (2020–2024)
+- MSc Intermediality, University of Edinburgh (2025–2026)
+- BA Drama, Film & Television Literature, Communication University of Zhejiang (2020–2024)
 
-## Areas of interest
+## Creative approach
 
-Interactive narrative · Scriptwriting and adaptation · Cross-media storytelling · Digital visual culture · Film and theatre · Creative content
-
-**Languages:** Mandarin Chinese · English · Korean (TOPIK Level 6)
+Text, image and interactivity come together in my creative practice. My work combines scriptwriting, cross-media adaptation, visual experimentation and research-informed storytelling.
 
 ---
 
-*This repository contains a portfolio landing page in `docs/index.html` and preserves the existing interactive-script HTML file. To publish the website, enable GitHub Pages with the main branch and /docs folder in the repository settings.*
+*Visual portfolio site lives in the `docs/` folder. Original Twine export is preserved as `index.html.html`.*
